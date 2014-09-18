@@ -4,7 +4,7 @@ import os
 
 from setuptools import setup
 
-version = '0.1.8'
+version = '0.1.8rodacom1'
 name = 'rubygemsrecipe'
 
 

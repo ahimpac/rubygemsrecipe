@@ -9,7 +9,7 @@ import subprocess
 import urllib
 import zc.buildout
 
-from string import strip
+strip = lambda x:x.strip()
 
 class Recipe(object):
     """zc.buildout recipe for compiling and installing software"""
